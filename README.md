@@ -20,6 +20,7 @@ c. Have done in the assignment
 
 
 d. Code files:
+
         1. client.cpp
                 (specifies which function to do with corresponding parameters)
                 - Create TCP socket with AWS server
@@ -99,6 +100,7 @@ g. Idiosyncrasy
 
 
 h. Reused code:
+
     1. Beej's Code: http://www.beej.us/guide/bgnet/
             Create sockets (TCP / UDP);
             Bind a socket;
